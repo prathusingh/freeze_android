@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/build/intermediates/pre-dexed/debug/volley-925168cc0103f870c04842cefeca0588bb6088ef.jar"
+        jar="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/libs/volley.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c"/>
+    <item
+        dex="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/build/intermediates/pre-dexed/debug/spring-android-rest-template-1.0.1.RELEASE-e8409920fc9fb56ff4f5dc3ed67b71053ab39bdf.jar"
+        jar="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/libs/spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33"/>
+    <item
+        dex="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/build/intermediates/pre-dexed/debug/android-support-v4-9d95d8aedd664b046a7ace5d96c3d390dab78c3e.jar"
+        jar="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a13f8fe2c278737e2f0b6fcf00f6b2ae4034aacf"/>
+    <item
+        dex="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/build/intermediates/pre-dexed/debug/gimbal-proximity-352b6c69d8d7d9535e0aa900f42fa48a86c4e652.jar"
+        jar="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/libs/gimbal-proximity.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="bb1997e98776d82267f4a90c8777683678b9278b"/>
+    <item
+        dex="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/build/intermediates/pre-dexed/debug/spring-android-core-1.0.1.RELEASE-6864ef9853f2a35b8e60d29a5650d6ff2d1fd723.jar"
+        jar="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/libs/spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b"/>
+    <item
+        dex="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/build/intermediates/pre-dexed/debug/android-dev-logging-9b235e9ac989cf901e7c6cb132084fbe7048366d.jar"
+        jar="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/libs/android-dev-logging.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b1d4444a5710865e0d6094c67399646d2cce2bad"/>
+
+</pre-dex-items>
